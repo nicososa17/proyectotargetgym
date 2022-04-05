@@ -1,0 +1,31 @@
+body{
+    background-image: url(../image/600x315_1_7395_Nejlepsi-kulturista-kategorie-classic-physique-Chris-Bumstead-se-zacal-venovat-joze-2.jpg);
+    font-size: 20px;
+}
+.clases{
+    font-size: 30px;
+    color: white;
+}
+.horarios{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: black;
+}
+.equipamiento{
+    display: inline-block;   
+background-color: black; 
+padding: 1%;
+display: inline-flex;
+justify-content: flex-end;
+height: auto;
+flex-direction: row;
+gap: 30px;
+}
+/*me gustaria poner las imagenes del lado derecho sin que se expanda el fondo negro*/
+
+.footer{
+    text-align: right;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
