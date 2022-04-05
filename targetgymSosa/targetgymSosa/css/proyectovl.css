@@ -1,0 +1,31 @@
+body{
+    background-image: url(../image/600x315_1_7395_Nejlepsi-kulturista-kategorie-classic-physique-Chris-Bumstead-se-zacal-venovat-joze-2.jpg);
+    font-size: 20px;
+}
+.clases{
+    font-size: 30px;
+    color: white;
+}
+.horarios{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: black;
+}
+.equipamiento{
+    display: grid; 
+    grid-template-columns: 470px 470px;  
+    grid-template-rows: 220px 220px;
+    margin: auto;
+    margin-left: 200px;
+    margin-right: 200px;
+background-color: black;
+
+
+} 
+
+.footer{
+    text-align: right;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
