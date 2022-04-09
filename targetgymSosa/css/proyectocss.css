@@ -4,11 +4,19 @@ body {
     font-size: 20px;
     font-family: 'Poppins', sans-serif;
 }
-
+.header{
+    font-size: 40px;
+}
 .inicio{
-    display: flow-root;
-    justify-content: left;
-   
+    display: grid
+}
+.titulo{
+    transition: all 1ms;
+}
+.titulo:hover{
+    height: 25px;
+    width: 25px;
+    color: aliceblue;
 }
 .sedes{
     display: flex;
