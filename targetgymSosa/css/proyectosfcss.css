@@ -43,16 +43,7 @@ letter-spacing: 1px;
     text-decoration-line: underline;
     list-style: circle;
 }
-.equipamiento {
-display: inline-block;   
-background-color: black; 
-padding: 1%;
-display: flex;
-justify-content: center;
-height: auto;
-flex-direction: row;
-gap: 30px;
-}
+
 .footer{
     color: black;
     text-align: right;
