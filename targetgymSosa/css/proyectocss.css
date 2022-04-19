@@ -19,6 +19,7 @@ body {
     color: aliceblue;
 }
 .sedes{
+    font-size: 40px;
     display: flex;
     justify-content: center;
 }
