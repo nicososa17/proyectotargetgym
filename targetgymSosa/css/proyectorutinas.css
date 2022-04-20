@@ -1,0 +1,22 @@
+body{
+    background:linear-gradient(#96A7AF, #87A6B3) ;
+    font-family: 'Poppins', sans-serif;
+}
+.pecho{
+    display: inline-flex;
+    gap: 30px;
+
+}
+.espalda{
+    display: inline-flex;
+    gap: 30px;
+}
+.h2{
+    font-size: 25px;
+    text-decoration-line: underline;
+
+}
+.footer {
+    font-size: 15px;
+    text-align: right;
+}
