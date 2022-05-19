@@ -36,6 +36,12 @@ letter-spacing: 1px;
     font-size: 30px;
 
 }
+.equipamiento{
+    margin-left: 20px;
+    display: contents;
+    width: 100px;
+    height: 100px;
+}
 .contacto {
     color: black;
     font-size: 20px;

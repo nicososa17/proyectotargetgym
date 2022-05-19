@@ -3,11 +3,11 @@
 }
 .listas ul li{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-size: 30px;
     list-style-type: square;
 }
 .footer{
     font-family: 'Times New Roman', Times, serif;
     text-align: right;
-    font-size: 15px;
+    font-size: 25px;
 }
